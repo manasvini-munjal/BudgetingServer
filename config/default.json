@@ -1,0 +1,6 @@
+{
+
+    "mongoConn": "mongodb+srv://manasvini:cloud1@cluster0-qcoqa.mongodb.net/TaskList3_BudgetManager?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+  
+}
